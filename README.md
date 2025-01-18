@@ -1,16 +1,24 @@
-# myapp
+# Jogo da Velha Web
 
-A new Flutter project.
+Este é um jogo da velha clássico desenvolvido usando Flutter. O projeto foi criado para demonstrar lógica de jogo, alternância de turno entre jogadores e um modo opcional para jogar contra o computador.
 
-## Getting Started
+## Link para Demonstração Web
+- https://amandanvilalva.github.io/jogo-da-velha-web/
 
-This project is a starting point for a Flutter application.
+## 💡 Funcionalidades
+- Modo de jogo para 1 ou 2 jogadores.
+- Inteligência artificial simples para jogar contra o computador.
+- Interface estilizada com tons de amarelo.
+- Mensagens dinâmicas para vitória, empate e reinício de jogo.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tecnologias
+- **Flutter**: Framework utilizado para a construção da interface.
+- **Dart**: Linguagem de programação utilizada no projeto.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📄 Estrutura do Código
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **jogo_da_velha.dart**: Contém a lógica principal do jogo e a interface do usuário.
+
+## ✨ Personalização
+- O layout utiliza gradientes e sombras suaves para realçar o design.
+- Fácil modificação de cores e estilos dos botões e tabuleiro.
